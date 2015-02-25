@@ -1,0 +1,12 @@
+{
+    "name": "root/ghapi",
+    "require": {
+        "guzzlehttp/guzzle": "~5.2"
+    },
+    "authors": [
+        {
+            "name": "Jonathan Klein",
+            "email": "jonathan.n.klein@gmail.com"
+        }
+    ]
+}
