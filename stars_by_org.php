@@ -3,7 +3,7 @@
 require 'vendor/autoload.php';
 
 if (empty($argv[1])) {
-    die('Please provide the repo name as the first argument on the command line' . PHP_EOL);
+    die('Please provide the organization name as the first argument on the command line' . PHP_EOL);
 }
 $org = $argv[1];
 
